@@ -11,16 +11,15 @@ Easily add, complete, and manage your daily tasks — all inside your terminal w
     • Keyboard shortcuts for fast control  
     • Works cross-platform (Linux, macOS, Window
 
-## 🖥️ Preview
+## Preview
+
+<img width="1918" height="1042" alt="Screenshot_27-Oct_21-33-14_4258" src="https://github.com/user-attachments/assets/3c408bd2-1ac9-43c6-95c0-5f2f4f09c4ea" />
 
 
 This is the User Interface of the Todo Application with keyboard shortcuts.
 
 
-
-
-
-
+<img width="1914" height="1040" alt="Screenshot_27-Oct_21-32-59_30954" src="https://github.com/user-attachments/assets/36ad9be2-c3d5-4ec3-92b5-f3ac062111db" />
 
 
 When You press letter a in keyboard the input box popouts and lets you add tasks in the task menu.
