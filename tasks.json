@@ -1,6 +1,14 @@
 [
     {
-        "task": "kill niggas",
+        "task": "devops planing",
+        "done": false
+    },
+    {
+        "task": "gate prep",
         "done": true
+    },
+    {
+        "task": "buy groceries",
+        "done": false
     }
 ]
